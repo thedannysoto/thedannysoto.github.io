@@ -1,11 +1,11 @@
 # Site settings
 author: Danny Soto
-title: 
+title: Problem Solving with Programming
 header-img: img/home-bg.png
 email: 87dsoto@gmail.com
 copyright_name: Danny Soto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Software Engineering Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  thedannysoto

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Creation of 'My Congress' - A CLI Data Gem"
-date:       2020-02-09 19:26:50 +0000
+title:      "Creation of CLI Data Gem My Congress"
+date:       2020-02-09 14:26:51 -0500
 permalink:  creation_of_my_congress_-_a_cli_data_gem
 ---
 
